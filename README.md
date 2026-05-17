@@ -22,3 +22,6 @@ To become a strong software developer with solid CS fundamentals.
 
 ## 📫 Contact
 - GitHub: https://github.com/ByteWithHassan
+- ## 📊 GitHub Stats
+
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteWithHassan&show_icons=true&theme=default)
