@@ -37,14 +37,15 @@ Java-based OOP project that manages customers and calculates utility bills using
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ByteWithHassan&show_icons=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteWithHassan&show_icons=true&theme=default)
 
 ## 🔥 Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByteWithHassan)
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteWithHassan&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteWithHassan&layout=compact)
 ---
 
 ## 📫 Contact
