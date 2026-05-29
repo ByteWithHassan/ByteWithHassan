@@ -2,6 +2,8 @@
 
 **Computer Science Student | Java Developer | Problem Solver**
 
+![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-purple?style=for-the-badge&logo=github)
+
 Passionate about building strong fundamentals in software development through structured learning and practical projects. Focused on Object-Oriented Programming, software architecture, and clean code practices.
 
 ---
@@ -27,7 +29,7 @@ Currently strengthening my foundation in software engineering principles and bui
 
 ### Development Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub%20Pro-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
@@ -43,6 +45,29 @@ Currently strengthening my foundation in software engineering principles and bui
 - ✅ Maven Build Automation
 - ✅ Professional Code Documentation
 - ✅ Clean Code Practices
+
+---
+
+## 🌟 GitHub Pro Membership
+
+As a **GitHub Pro** member, I have access to:
+
+### Premium Features
+- 🔐 **Private Repositories** - Unlimited private repos for personal projects
+- 🎯 **Advanced Code Search** - Enhanced repository search capabilities
+- 📊 **GitHub Copilot** - AI-powered code suggestions and completion
+- 🔍 **Advanced Security** - Dependency scanning and security alerts
+- 👥 **Team Management** - Organize and manage collaborative projects
+- 📈 **Enhanced Analytics** - Detailed insights into repository activity
+- ⚙️ **GitHub Actions** - Advanced automation workflows
+- 🚀 **Priority Support** - Direct support from GitHub team
+
+### Current Usage
+- 📁 Leveraging advanced code search for project discovery
+- 🤖 Utilizing GitHub Copilot for enhanced development productivity
+- 🔒 Implementing advanced security features across repositories
+- ⚡ Creating sophisticated automation workflows
+- 📚 Accessing premium learning resources
 
 ---
 
@@ -161,11 +186,13 @@ All my projects follow professional development practices including:
 
 **Build Tools**: Maven
 
-**Version Control**: Git & GitHub
+**Version Control**: Git & GitHub Pro
 
 **Preferred Languages**: Java, C++
 
 **Testing**: JUnit (for Java projects)
+
+**AI Assistant**: GitHub Copilot (Pro)
 
 ---
 
@@ -215,6 +242,7 @@ I'm interested in:
 - [Git Documentation](https://git-scm.com/doc)
 - [Maven Official](https://maven.apache.org/)
 - [FlatLaf UI Library](https://www.formdev.com/flatlaf/)
+- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer
 
 ---
 
@@ -222,10 +250,10 @@ I'm interested in:
 
 ### Connect With Me
 
-| Platform | Link |
-|----------|------|
-| **GitHub** | [@ByteWithHassan](https://github.com/ByteWithHassan) |
-| **Email** | Check GitHub profile for contact info |
+| Platform | Link | Status |
+|----------|------|--------|
+| **GitHub** | [@ByteWithHassan](https://github.com/ByteWithHassan) | 🟢 Pro |
+| **Email** | Check GitHub profile for contact info | 📧 Available |
 
 ### How to Reach Out
 
@@ -260,6 +288,7 @@ I maintain high standards for professional development:
 - 👥 Community engagement
 - 🔐 Security best practices
 - 🚀 Continuous improvement
+- 🤖 Leveraging AI tools responsibly
 
 ---
 
@@ -269,6 +298,7 @@ I maintain high standards for professional development:
 |--------|-------|
 | **Primary Language** | Java |
 | **Secondary Language** | C++ |
+| **GitHub Membership** | Pro 🟣 |
 | **GitHub Joined** | 2026 |
 | **Projects** | 2+ |
 | **Contributions** | Growing 📈 |
@@ -312,13 +342,16 @@ My projects are licensed under the MIT License, making them free to use, modify,
 - Thank you to the Java community for excellent resources
 - Thanks to all developers whose code I've learned from
 - Appreciation for open-source maintainers
-- Special thanks to my mentors and peers
+- Special thanks to GitHub for the Pro features and Copilot AI
+- Thanks to my mentors and peers
 
 ---
 
 **Last Updated**: May 29, 2026
 
 **Status**: 🟢 Actively Learning & Building
+
+**GitHub Plan**: 🟣 GitHub Pro
 
 ---
 
